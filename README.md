@@ -1,3 +1,7 @@
 # test-git-tags
 
-This is version 1.0.0
+Bump version 1.2.0
+
+A
+B
+C
